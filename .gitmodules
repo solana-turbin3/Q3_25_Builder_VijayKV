@@ -1,3 +1,4 @@
-[submodule "turbin3-ts-preq"]
-	path = turbin3-ts-preq
+
+[submodule "pre-reqs"]
+	path = pre-reqs
 	url = https://github.com/Vijaykv5/turbine3-preq
